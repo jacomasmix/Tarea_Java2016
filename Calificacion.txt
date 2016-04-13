@@ -4,7 +4,8 @@ Errores Manejados o no tiene en consola (2 Puntos): 0.75 Puntos. Tiene errores e
 Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 1 Puntos. Si utliza funciones y estructuras de repeticion, pero repitio mucho codigo innecesario, no respeta principio DRY.
 Comentarios (1 Punto): 0 Puntos. No tiene comentarios.
 Subio bien a github (1 Punto bonus): 1 Punto.
-Total: 5.25
+Total: 5.25 - 1 Punto por poner JAVA en el repo, esto es JavaScript.
+4.25
 
 Comentarios Profesor
 El codigo funciona pero no cumplio con el requisito de usar arreglo de objetos.
