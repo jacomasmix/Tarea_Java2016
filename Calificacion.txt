@@ -1,0 +1,14 @@
+Detalle Calificacion
+Requisitos Funcionales (5 Puntos): 2.5 Funciona pero no uso arreglo de objetos. No limpia pantalla.
+Errores Manejados o no tiene en consola (2 Puntos): 0.75 Puntos. Tiene errores en la consola (de CSS). Tampoco valida entre minusculas y mayusculas.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 1 Puntos. Si utliza funciones y estructuras de repeticion, pero repitio mucho codigo innecesario, no respeta principio DRY.
+Comentarios (1 Punto): 0 Puntos. No tiene comentarios.
+Subio bien a github (1 Punto bonus): 1 Punto.
+Total: 5.25
+
+Comentarios Profesor
+El codigo funciona pero no cumplio con el requisito de usar arreglo de objetos.
+La estructura de datos de campos separados deja mucho por desear, mejor es mantener un arreglo por estudiante xq en este esquema de datos no hay relaciones como cuando usamos gestores de bases de datos.
+Mucho codigo repedito y no uso funciones para eso, porque?.
+La estructura de datos parecido al Codigo parecido al de Alvarado John
+
